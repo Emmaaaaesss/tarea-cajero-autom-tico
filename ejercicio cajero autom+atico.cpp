@@ -10,7 +10,7 @@ int main(){
 	
 	do{
  	
-    cout<<"CALCULADORA"<<endl;
+    cout<<"CAJERO AUTOMATICO"<<endl;
     cout<<"==========================="<<endl;
     cout<<"MENU DE OPCIONES\n";
     cout<<"1. Ingresar dinero\n";
